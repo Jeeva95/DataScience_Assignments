@@ -1,1 +1,1 @@
-# DataScience_Assignments
+# FullStack_DataScience_Assignments
